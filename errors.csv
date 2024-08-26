@@ -1,54 +1,28 @@
-error_id,error_content,error_solution,,,
+error_id,error_content,error_solution
 0,Liquid has seeped into the area below the mixing bowl.,"Unplug the appliance immediately.
-– Use a towel to dry excess liquid from underneath the mixing bowl.
-– To prevent liquid from getting into delicate components inside the
+?Use a towel to dry excess liquid from underneath the mixing bowl.
+?To prevent liquid from getting into delicate components inside the
 base unit, do not move it or turn it over.
-– Do not attempt to disassemble the appliance. It does not contain
+?Do not attempt to disassemble the appliance. It does not contain
 any parts that you can service yourself.
-– If you cannot be certain that no liquid has entered the base unit, do
+?If you cannot be certain that no liquid has entered the base unit, do
 not switch on your LuckyChef Cooker. Instead, contact Customer
-Care.",,,
+Care."
 1,"LuckyChef Cooker cannot be switched
 on.","The base unit may not be connected correctly.
-– Check if the power cord has been properly plugged in.",,,
+?Check if the power cord has been properly plugged in."
 2,"The mixing bowl will not go into
 LuckyChef Cooker base unit.","The mixing bowl may not be correctly assembled.
-– Check whether the mixing bowl base is locked into place correctly.",,,
-,,,,,
-,,,,,
-error_id,error_content,error_solution,,,
-0,Liquid has seeped into the area below the mixing bowl.,"Unplug the appliance immediately.
-– Use a towel to dry excess liquid from underneath the mixing bowl.
-– To prevent liquid from getting into delicate components inside the
-base unit, do not move it or turn it over.
-– Do not attempt to disassemble the appliance. It does not contain
-any parts that you can service yourself.
-– If you cannot be certain that no liquid has entered the base unit, do
-not switch on your LuckyChef Cooker. Instead, contact Customer
-Care.",,,
-1,"LuckyChef Cooker cannot be switched
-on.","The base unit may not be connected correctly.
-– Check if the power cord has been properly plugged in.",,,
-2,"The mixing bowl will not go into
-LuckyChef Cooker base unit.","The mixing bowl may not be correctly assembled.
-– Check whether the mixing bowl base is locked into place correctly.",,,
-,,,,,
-,,,,,
-error_id,error_content,error_solution,,,
-0,Liquid has seeped into the area below the mixing bowl.,"Unplug the appliance immediately.
-– Use a towel to dry excess liquid from underneath the mixing bowl.
-– To prevent liquid from getting into delicate components inside the
-base unit, do not move it or turn it over.
-– Do not attempt to disassemble the appliance. It does not contain
-any parts that you can service yourself.
-– If you cannot be certain that no liquid has entered the base unit, do
-not switch on your LuckyChef Cooker. Instead, contact Customer
-Care.",,,
-1,"LuckyChef Cooker cannot be switched
-on.","The base unit may not be connected correctly.
-– Check if the power cord has been properly plugged in.",,,
-2,"The mixing bowl will not go into
-LuckyChef Cooker base unit.","The mixing bowl may not be correctly assembled.
-– Check whether the mixing bowl base is locked into place correctly.",,,
-,,,,,
-,,,,,
+?Check whether the mixing bowl base is locked into place correctly."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
