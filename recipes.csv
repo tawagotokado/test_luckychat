@@ -1,18 +1,7 @@
-recipe_id,recipe_name,recipe_discription,recipe_tags,
-0,Ostrich & Pumpkin,"Low fat, high fibre, grain free recipe with fennel and flaxseed oil","adult, gourmet, grain free, low fat, offal free, senior",
-1,Chicken & Barley,Puppy chicken recipe with barley and berries,"easy shopping, offal free, puppy",
-2,Calming Turkey,Easily digestable menu for sensitive dogs with lavender,"adult, digestion aid, easy digestion, grain free, offal free, senior",
-3,Goat & Apple,Complete and balanced exclusion diet goat & apple,"adult, grain free, hypoallergenic, offal free, quick & easy, senior",
-4,Turkey with Quinoa,Puppy turkey dish with salmon oil and blueberries,"easy shopping, offal free, puppy",
-5,Turkey Stew,"Hearty, grain free turkey dish full of probiotics","adult, grain free, neutral odor, offal free, quick & easy",
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
+recipe_id,recipe_name,recipe_discription,recipe_tags
+0,Ostrich & Pumpkin,"Low fat, high fibre, grain free recipe with fennel and flaxseed oil","adult, gourmet, grain free, low fat, offal free, senior"
+1,Chicken & Barley,Puppy chicken recipe with barley and berries,"easy shopping, offal free, puppy"
+2,Calming Turkey,Easily digestable menu for sensitive dogs with lavender,"adult, digestion aid, easy digestion, grain free, offal free, senior"
+3,Goat & Apple,Complete and balanced exclusion diet goat & apple,"adult, grain free, hypoallergenic, offal free, quick & easy, senior"
+4,Turkey with Quinoa,Puppy turkey dish with salmon oil and blueberries,"easy shopping, offal free, puppy"
+5,Turkey Stew,"Hearty, grain free turkey dish full of probiotics","adult, grain free, neutral odor, offal free, quick & easy"
