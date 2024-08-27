@@ -1,0 +1,501 @@
+review_id,purchase_id,customer_id,review_content
+0,1593,1587,I am very happy with this dog bed. It's great and my dog loves it!
+1,1665,7376,Bought this dog leash for my dog and it was good. My dog uses it all the time and seems very satisfied.
+2,654,3920,"I am very unhappy with this dog collar. It's supposed to be low-quality, but it's not. My dog won't go near it."
+3,1175,7227,The dog collar is good and my dog loves playing with it every day. Highly recommend!
+4,1575,8631,"After using this dog food for a week, I can say it's great. My dog is much happier now."
+5,643,7797,My dog loves this dog toy! It's very fantastic and has become a favorite toy.
+6,85,1843,This dog collar was a waste of money. It's not subpar and my dog refuses to use it.
+7,828,5049,"I was hesitant at first, but this dog food turned out to be high-quality. My dog enjoys it a lot!"
+8,1751,2800,This is the best dog bed I have bought for my dog. It's fantastic and my dog can't get enough of it.
+9,1890,362,"I was hesitant at first, but this dog toy turned out to be fantastic. My dog enjoys it a lot!"
+10,569,7932,This dog toy exceeded my expectations. It's very high-quality and my dog seems to be very happy with it.
+11,1325,1667,I recently bought this dog collar for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+12,1317,3345,"I was hesitant at first, but this dog collar turned out to be amazing. My dog enjoys it a lot!"
+13,1744,1673,Bought this dog toy for my dog and it was great. My dog uses it all the time and seems very satisfied.
+14,1111,6471,The dog bed is durable and my dog loves playing with it every day. Highly recommend!
+15,134,5520,My dog loves this dog collar! It's very great and has become a favorite toy.
+16,1925,6067,I regret buying this dog bed. It's not poor and my dog doesn't like it.
+17,382,3226,The dog food is amazing and my dog has been using it daily. Great purchase!
+18,1613,8433,"I bought this dog bed hoping it would be terrible, but it was a disappointment. My dog doesn't like it at all."
+19,1064,6254,This dog bed exceeded my expectations. It's very good and my dog seems to be very happy with it.
+20,1196,2143,The dog bed is high-quality and my dog has been using it daily. Great purchase!
+21,236,601,"After using this dog leash for a week, I can say it's durable. My dog is much happier now."
+22,184,8942,I am very happy with this dog leash. It's fantastic and my dog loves it!
+23,989,2059,"I thought this dog food would be disappointing, but it's not. My dog doesn't enjoy it at all."
+24,968,5522,This dog bed exceeded my expectations. It's very amazing and my dog seems to be very happy with it.
+25,26,1333,"The dog food is supposed to be terrible, but it's poorly made. My dog ignores it."
+26,1148,8724,"I was hesitant at first, but this dog food turned out to be amazing. My dog enjoys it a lot!"
+27,1568,7823,"After using this dog toy for a week, I can say it's durable. My dog is much happier now."
+28,181,6174,Bought this dog toy for my dog and it was high-quality. My dog uses it all the time and seems very satisfied.
+29,144,4926,This dog collar exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+30,889,9196,Bought this dog collar for my dog and it was good. My dog uses it all the time and seems very satisfied.
+31,1383,5578,This is the best dog bed I have bought for my dog. It's high-quality and my dog can't get enough of it.
+32,1618,7105,The dog toy is amazing and my dog loves playing with it every day. Highly recommend!
+33,378,6337,I recently bought this dog bed for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+34,192,8258,Bought this dog toy for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+35,363,2229,My dog loves this dog bed! It's very fantastic and has become a favorite toy.
+36,699,9105,Bought this dog food for my dog and it was high-quality. My dog uses it all the time and seems very satisfied.
+37,1857,3100,This dog toy exceeded my expectations. It's very good and my dog seems to be very happy with it.
+38,392,5022,I regret buying this dog collar. It's not poor and my dog doesn't like it.
+39,1268,9790,I recently bought this dog collar for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+40,391,7602,This dog leash exceeded my expectations. It's very great and my dog seems to be very happy with it.
+41,1052,1385,This is the best dog leash I have bought for my dog. It's good and my dog can't get enough of it.
+42,587,71,"After using this dog toy for a week, I can say it's good. My dog is much happier now."
+43,1803,3203,This is the best dog bed I have bought for my dog. It's durable and my dog can't get enough of it.
+44,1749,8386,This dog leash exceeded my expectations. It's very great and my dog seems to be very happy with it.
+45,1754,8624,Very disappointed with this dog food. It's not disappointing and my dog doesn't use it.
+46,1578,749,My dog loves this dog collar! It's very good and has become a favorite toy.
+47,1315,5723,The dog leash is fantastic and my dog loves playing with it every day. Highly recommend!
+48,795,1767,I am very happy with this dog toy. It's amazing and my dog loves it!
+49,179,9557,The dog leash is durable and my dog loves playing with it every day. Highly recommend!
+50,869,3372,My dog loves this dog bed! It's very high-quality and has become a favorite toy.
+51,1308,8375,I recently bought this dog toy for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+52,538,9000,I am very happy with this dog collar. It's durable and my dog loves it!
+53,931,7892,The dog bed is amazing and my dog loves playing with it every day. Highly recommend!
+54,197,3320,"I was hesitant at first, but this dog bed turned out to be fantastic. My dog enjoys it a lot!"
+55,740,7341,I recently bought this dog bed for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+56,325,8172,This dog toy is far from subpar. My dog hates it and won't use it.
+57,121,7582,This dog toy exceeded my expectations. It's very amazing and my dog seems to be very happy with it.
+58,1051,4621,Bought this dog food for my dog and it was amazing. My dog uses it all the time and seems very satisfied.
+59,845,1421,My dog loves this dog collar! It's very great and has become a favorite toy.
+60,1822,2550,My dog loves this dog food! It's very high-quality and has become a favorite toy.
+61,257,5258,"I thought this dog collar would be terrible, but it's not. My dog doesn't enjoy it at all."
+62,1392,3139,I recently bought this dog toy for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+63,1307,8630,I recently bought this dog food for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+64,423,1043,"The dog leash is supposed to be low-quality, but it's poorly made. My dog ignores it."
+65,1975,2352,"After using this dog toy for a week, I can say it's fantastic. My dog is much happier now."
+66,1936,377,This dog toy is not worth the price. It's not terrible and my dog doesn't like it.
+67,1506,7389,My dog loves this dog collar! It's very durable and has become a favorite toy.
+68,292,372,The dog bed is amazing and my dog has been using it daily. Great purchase!
+69,1205,9829,My dog loves this dog leash! It's very great and has become a favorite toy.
+70,1169,9916,"I was hesitant at first, but this dog leash turned out to be fantastic. My dog enjoys it a lot!"
+71,680,3766,I recently bought this dog bed for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+72,1523,3646,My dog loves this dog bed! It's very good and has become a favorite toy.
+73,606,9376,Bought this dog food for my dog and it was durable. My dog uses it all the time and seems very satisfied.
+74,1845,9813,Bought this dog leash for my dog and it was great. My dog uses it all the time and seems very satisfied.
+75,1901,8415,Bought this dog food for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+76,661,1927,This dog bed exceeded my expectations. It's very amazing and my dog seems to be very happy with it.
+77,609,7546,The dog toy is high-quality and my dog loves playing with it every day. Highly recommend!
+78,104,9605,This dog bed is far from low-quality. My dog hates it and won't use it.
+79,112,5589,"I was hesitant at first, but this dog leash turned out to be fantastic. My dog enjoys it a lot!"
+80,46,212,"The dog collar is supposed to be bad, but it's poorly made. My dog ignores it."
+81,1743,2809,Bought this dog collar for my dog and it was great. My dog uses it all the time and seems very satisfied.
+82,1088,727,"After using this dog bed for a week, I can say it's amazing. My dog is much happier now."
+83,472,52,I am very happy with this dog toy. It's amazing and my dog loves it!
+84,837,7627,"I bought this dog leash hoping it would be subpar, but it was a disappointment. My dog doesn't like it at all."
+85,653,4330,I am very happy with this dog collar. It's good and my dog loves it!
+86,1223,9494,This dog leash exceeded my expectations. It's very good and my dog seems to be very happy with it.
+87,534,667,"The dog leash is supposed to be disappointing, but it's poorly made. My dog ignores it."
+88,1670,9026,"I am very unhappy with this dog food. It's supposed to be terrible, but it's not. My dog won't go near it."
+89,803,3638,The dog food is fantastic and my dog has been using it daily. Great purchase!
+90,346,8183,I recently bought this dog leash for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+91,648,6720,"I was hesitant at first, but this dog leash turned out to be fantastic. My dog enjoys it a lot!"
+92,994,2029,My dog loves this dog toy! It's very great and has become a favorite toy.
+93,617,7556,My dog loves this dog collar! It's very high-quality and has become a favorite toy.
+94,1813,5617,This is the best dog collar I have bought for my dog. It's high-quality and my dog can't get enough of it.
+95,1450,6328,I recently bought this dog toy for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+96,1705,7150,I recently bought this dog food for my dog and it has been fantastic. The quality is amazing and my dog absolutely loves it!
+97,943,6264,My dog loves this dog leash! It's very amazing and has become a favorite toy.
+98,455,9203,The dog bed is high-quality and my dog has been using it daily. Great purchase!
+99,1335,4307,Bought this dog bed for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+100,1624,9734,I am very happy with this dog food. It's amazing and my dog loves it!
+101,1123,6059,This is the best dog bed I have bought for my dog. It's durable and my dog can't get enough of it.
+102,1417,8458,"I bought this dog food hoping it would be terrible, but it was a disappointment. My dog doesn't like it at all."
+103,863,2694,"I was hesitant at first, but this dog leash turned out to be durable. My dog enjoys it a lot!"
+104,1782,6706,Bought this dog leash for my dog and it was high-quality. My dog uses it all the time and seems very satisfied.
+105,706,2608,"After using this dog collar for a week, I can say it's durable. My dog is much happier now."
+106,1182,4977,This is the best dog bed I have bought for my dog. It's good and my dog can't get enough of it.
+107,11,5248,The dog bed is high-quality and my dog loves playing with it every day. Highly recommend!
+108,1298,1368,Very disappointed with this dog food. It's not poor and my dog doesn't use it.
+109,1662,5249,I am very happy with this dog collar. It's amazing and my dog loves it!
+110,1382,9115,The dog bed is high-quality and my dog has been using it daily. Great purchase!
+111,1316,6313,"I was hesitant at first, but this dog collar turned out to be good. My dog enjoys it a lot!"
+112,1380,1520,This dog bed was a waste of money. It's not terrible and my dog refuses to use it.
+113,503,1037,This dog collar exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+114,1534,8903,"I was hesitant at first, but this dog bed turned out to be amazing. My dog enjoys it a lot!"
+115,1495,3941,The dog food is fantastic and my dog has been using it daily. Great purchase!
+116,1340,4585,I recently bought this dog collar for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+117,784,3577,This dog leash was a waste of money. It's not subpar and my dog refuses to use it.
+118,975,53,My dog loves this dog bed! It's very good and has become a favorite toy.
+119,765,5106,This dog collar exceeded my expectations. It's very great and my dog seems to be very happy with it.
+120,227,9257,This is the best dog toy I have bought for my dog. It's good and my dog can't get enough of it.
+121,1640,6625,I regret buying this dog toy. It's not disappointing and my dog doesn't like it.
+122,53,4127,The dog food is fantastic and my dog loves playing with it every day. Highly recommend!
+123,813,1524,This is the best dog bed I have bought for my dog. It's durable and my dog can't get enough of it.
+124,1445,625,This is the best dog bed I have bought for my dog. It's good and my dog can't get enough of it.
+125,1953,3040,"The dog collar is supposed to be poor, but it's poorly made. My dog ignores it."
+126,786,4354,I am very happy with this dog bed. It's durable and my dog loves it!
+127,1617,1622,This dog leash exceeded my expectations. It's very high-quality and my dog seems to be very happy with it.
+128,1648,8658,The dog collar is amazing and my dog has been using it daily. Great purchase!
+129,682,8070,The dog collar is good and my dog has been using it daily. Great purchase!
+130,52,1563,This dog toy was a waste of money. It's not subpar and my dog refuses to use it.
+131,1375,5058,"The dog toy is supposed to be low-quality, but it's poorly made. My dog ignores it."
+132,1876,5941,The dog food is not as subpar as described. My dog has no interest in it.
+133,1232,2996,"After using this dog toy for a week, I can say it's great. My dog is much happier now."
+134,306,1453,"The dog collar is supposed to be disappointing, but it's poorly made. My dog ignores it."
+135,1215,1191,I recently bought this dog toy for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+136,969,962,The dog toy is great and my dog has been using it daily. Great purchase!
+137,1081,2044,This is the best dog toy I have bought for my dog. It's durable and my dog can't get enough of it.
+138,1674,2572,I am very happy with this dog leash. It's durable and my dog loves it!
+139,702,6497,"After using this dog leash for a week, I can say it's amazing. My dog is much happier now."
+140,748,1996,Very disappointed with this dog collar. It's not terrible and my dog doesn't use it.
+141,857,7076,This dog collar exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+142,504,9679,The dog bed is good and my dog has been using it daily. Great purchase!
+143,1963,4589,The dog food is fantastic and my dog has been using it daily. Great purchase!
+144,405,3145,"After using this dog collar for a week, I can say it's great. My dog is much happier now."
+145,1633,2341,This dog collar was a waste of money. It's not poor and my dog refuses to use it.
+146,1323,4614,I am very happy with this dog leash. It's amazing and my dog loves it!
+147,1902,2695,This is the best dog bed I have bought for my dog. It's fantastic and my dog can't get enough of it.
+148,1908,1062,"I was hesitant at first, but this dog leash turned out to be amazing. My dog enjoys it a lot!"
+149,450,9845,Bought this dog collar for my dog and it was durable. My dog uses it all the time and seems very satisfied.
+150,1386,3625,"After using this dog leash for a week, I can say it's great. My dog is much happier now."
+151,822,4756,This dog food exceeded my expectations. It's very amazing and my dog seems to be very happy with it.
+152,1982,7066,My dog loves this dog collar! It's very great and has become a favorite toy.
+153,1758,3331,I recently bought this dog toy for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+154,995,5046,"I bought this dog leash hoping it would be subpar, but it was a disappointment. My dog doesn't like it at all."
+155,1555,5373,"After using this dog bed for a week, I can say it's high-quality. My dog is much happier now."
+156,722,3511,This dog leash exceeded my expectations. It's very great and my dog seems to be very happy with it.
+157,1951,4673,Bought this dog leash for my dog and it was amazing. My dog uses it all the time and seems very satisfied.
+158,791,5514,The dog leash is not as disappointing as described. My dog has no interest in it.
+159,1231,3806,I recently bought this dog leash for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+160,1049,599,The dog collar is not as poor as described. My dog has no interest in it.
+161,605,3235,"I was hesitant at first, but this dog bed turned out to be great. My dog enjoys it a lot!"
+162,91,3219,"I was hesitant at first, but this dog food turned out to be great. My dog enjoys it a lot!"
+163,493,8814,I recently bought this dog bed for my dog and it has been fantastic. The quality is good and my dog absolutely loves it!
+164,979,7871,Very disappointed with this dog leash. It's not low-quality and my dog doesn't use it.
+165,751,4675,The dog toy is high-quality and my dog loves playing with it every day. Highly recommend!
+166,417,1861,The dog collar is amazing and my dog has been using it daily. Great purchase!
+167,299,3383,"After using this dog leash for a week, I can say it's high-quality. My dog is much happier now."
+168,389,3103,The dog leash is good and my dog has been using it daily. Great purchase!
+169,27,579,I am very happy with this dog collar. It's fantastic and my dog loves it!
+170,394,7317,I am very happy with this dog collar. It's durable and my dog loves it!
+171,1882,8255,I recently bought this dog food for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+172,1398,6700,This dog leash was a waste of money. It's not subpar and my dog refuses to use it.
+173,1447,2858,I regret buying this dog food. It's not poor and my dog doesn't like it.
+174,393,8983,The dog bed is high-quality and my dog has been using it daily. Great purchase!
+175,1344,964,"After using this dog leash for a week, I can say it's fantastic. My dog is much happier now."
+176,22,9591,I am very happy with this dog toy. It's great and my dog loves it!
+177,670,3751,I recently bought this dog food for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+178,550,627,The dog toy is not as disappointing as described. My dog has no interest in it.
+179,1285,8896,The dog food is durable and my dog has been using it daily. Great purchase!
+180,1385,4611,"After using this dog food for a week, I can say it's high-quality. My dog is much happier now."
+181,1301,273,This dog leash exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+182,567,8162,I am very happy with this dog bed. It's amazing and my dog loves it!
+183,1625,8967,I am very happy with this dog bed. It's high-quality and my dog loves it!
+184,1241,8746,My dog loves this dog collar! It's very great and has become a favorite toy.
+185,1242,1208,Bought this dog toy for my dog and it was amazing. My dog uses it all the time and seems very satisfied.
+186,1565,7667,"I was hesitant at first, but this dog collar turned out to be amazing. My dog enjoys it a lot!"
+187,253,8309,This dog bed exceeded my expectations. It's very high-quality and my dog seems to be very happy with it.
+188,1794,1580,I recently bought this dog bed for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+189,1559,586,I recently bought this dog food for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+190,819,3382,I am very happy with this dog leash. It's high-quality and my dog loves it!
+191,209,8103,The dog collar is fantastic and my dog has been using it daily. Great purchase!
+192,984,8194,This dog leash is far from poor. My dog hates it and won't use it.
+193,1532,4701,Bought this dog collar for my dog and it was good. My dog uses it all the time and seems very satisfied.
+194,428,9446,I recently bought this dog bed for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+195,942,8943,I recently bought this dog collar for my dog and it has been fantastic. The quality is good and my dog absolutely loves it!
+196,492,1059,This is the best dog toy I have bought for my dog. It's great and my dog can't get enough of it.
+197,1018,7920,This dog leash is far from bad. My dog hates it and won't use it.
+198,831,7030,This is the best dog collar I have bought for my dog. It's amazing and my dog can't get enough of it.
+199,1296,254,This is the best dog leash I have bought for my dog. It's amazing and my dog can't get enough of it.
+200,1074,680,My dog loves this dog food! It's very great and has become a favorite toy.
+201,530,2815,The dog collar is amazing and my dog has been using it daily. Great purchase!
+202,484,5878,"I was hesitant at first, but this dog food turned out to be good. My dog enjoys it a lot!"
+203,623,1734,My dog loves this dog toy! It's very good and has become a favorite toy.
+204,1176,9637,Bought this dog food for my dog and it was high-quality. My dog uses it all the time and seems very satisfied.
+205,1267,4788,My dog loves this dog collar! It's very high-quality and has become a favorite toy.
+206,634,1901,I regret buying this dog collar. It's not low-quality and my dog doesn't like it.
+207,960,4391,I am very happy with this dog collar. It's good and my dog loves it!
+208,635,3657,The dog leash is good and my dog has been using it daily. Great purchase!
+209,208,3953,This is the best dog collar I have bought for my dog. It's high-quality and my dog can't get enough of it.
+210,1027,640,My dog loves this dog toy! It's very durable and has become a favorite toy.
+211,928,5032,Bought this dog collar for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+212,1424,7984,I am very happy with this dog toy. It's fantastic and my dog loves it!
+213,185,2353,This dog leash was a waste of money. It's not poor and my dog refuses to use it.
+214,1531,7183,"After using this dog collar for a week, I can say it's amazing. My dog is much happier now."
+215,1950,6541,The dog bed is great and my dog has been using it daily. Great purchase!
+216,1959,7815,The dog collar is amazing and my dog loves playing with it every day. Highly recommend!
+217,862,2568,I am very happy with this dog leash. It's amazing and my dog loves it!
+218,1490,4237,I recently bought this dog leash for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+219,614,6289,I am very happy with this dog collar. It's good and my dog loves it!
+220,486,7857,The dog bed is amazing and my dog has been using it daily. Great purchase!
+221,143,7238,"After using this dog collar for a week, I can say it's great. My dog is much happier now."
+222,1172,2641,Bought this dog bed for my dog and it was amazing. My dog uses it all the time and seems very satisfied.
+223,476,5667,The dog bed is great and my dog has been using it daily. Great purchase!
+224,1856,5196,The dog food is not as terrible as described. My dog has no interest in it.
+225,1893,5934,I recently bought this dog bed for my dog and it has been fantastic. The quality is amazing and my dog absolutely loves it!
+226,1117,4896,I am very happy with this dog collar. It's fantastic and my dog loves it!
+227,149,2507,The dog collar is fantastic and my dog loves playing with it every day. Highly recommend!
+228,1126,4665,I am very happy with this dog food. It's durable and my dog loves it!
+229,1785,5542,I recently bought this dog toy for my dog and it has been fantastic. The quality is amazing and my dog absolutely loves it!
+230,985,1929,"After using this dog toy for a week, I can say it's amazing. My dog is much happier now."
+231,1237,1151,Bought this dog collar for my dog and it was good. My dog uses it all the time and seems very satisfied.
+232,847,9290,I recently bought this dog leash for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+233,659,4225,"I was hesitant at first, but this dog leash turned out to be high-quality. My dog enjoys it a lot!"
+234,1235,8213,"I was hesitant at first, but this dog bed turned out to be great. My dog enjoys it a lot!"
+235,80,8971,I am very happy with this dog toy. It's amazing and my dog loves it!
+236,1012,1432,"I was hesitant at first, but this dog leash turned out to be great. My dog enjoys it a lot!"
+237,563,9466,"After using this dog leash for a week, I can say it's high-quality. My dog is much happier now."
+238,1069,1058,"I was hesitant at first, but this dog toy turned out to be amazing. My dog enjoys it a lot!"
+239,247,7339,"I was hesitant at first, but this dog leash turned out to be high-quality. My dog enjoys it a lot!"
+240,1607,3221,I am very happy with this dog toy. It's great and my dog loves it!
+241,1179,3214,This is the best dog leash I have bought for my dog. It's great and my dog can't get enough of it.
+242,1894,8229,This is the best dog food I have bought for my dog. It's good and my dog can't get enough of it.
+243,1099,7810,I recently bought this dog toy for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+244,150,15,I recently bought this dog leash for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+245,881,3210,The dog food is great and my dog loves playing with it every day. Highly recommend!
+246,1573,5250,This dog toy exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+247,1702,9848,I am very happy with this dog collar. It's fantastic and my dog loves it!
+248,796,9056,My dog loves this dog leash! It's very great and has become a favorite toy.
+249,1255,8362,I am very happy with this dog bed. It's durable and my dog loves it!
+250,350,4864,Bought this dog food for my dog and it was good. My dog uses it all the time and seems very satisfied.
+251,272,9156,This dog food exceeded my expectations. It's very good and my dog seems to be very happy with it.
+252,753,1756,Bought this dog toy for my dog and it was good. My dog uses it all the time and seems very satisfied.
+253,999,873,The dog leash is high-quality and my dog loves playing with it every day. Highly recommend!
+254,561,1791,Bought this dog toy for my dog and it was good. My dog uses it all the time and seems very satisfied.
+255,1716,5060,Bought this dog bed for my dog and it was great. My dog uses it all the time and seems very satisfied.
+256,1984,3146,Bought this dog leash for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+257,626,222,This dog food exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+258,1849,533,The dog collar is high-quality and my dog has been using it daily. Great purchase!
+259,158,4712,The dog food is fantastic and my dog has been using it daily. Great purchase!
+260,1458,3121,"After using this dog bed for a week, I can say it's fantastic. My dog is much happier now."
+261,1862,7917,My dog loves this dog bed! It's very great and has become a favorite toy.
+262,1929,5319,This dog food was a waste of money. It's not terrible and my dog refuses to use it.
+263,453,6945,My dog loves this dog collar! It's very great and has become a favorite toy.
+264,923,6584,"I was hesitant at first, but this dog bed turned out to be amazing. My dog enjoys it a lot!"
+265,898,3658,I am very happy with this dog bed. It's fantastic and my dog loves it!
+266,1861,8690,"After using this dog leash for a week, I can say it's fantastic. My dog is much happier now."
+267,1628,4394,The dog toy is durable and my dog loves playing with it every day. Highly recommend!
+268,747,5848,My dog loves this dog food! It's very durable and has become a favorite toy.
+269,348,1591,I recently bought this dog toy for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+270,714,7451,This dog collar exceeded my expectations. It's very great and my dog seems to be very happy with it.
+271,664,9206,I recently bought this dog toy for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+272,1361,6387,"I was hesitant at first, but this dog collar turned out to be high-quality. My dog enjoys it a lot!"
+273,1016,8866,"I was hesitant at first, but this dog bed turned out to be durable. My dog enjoys it a lot!"
+274,1584,3714,This dog food exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+275,409,7437,"After using this dog toy for a week, I can say it's amazing. My dog is much happier now."
+276,1994,4478,I am very happy with this dog toy. It's amazing and my dog loves it!
+277,69,4933,I recently bought this dog collar for my dog and it has been fantastic. The quality is good and my dog absolutely loves it!
+278,1595,9704,My dog loves this dog food! It's very fantastic and has become a favorite toy.
+279,1009,1509,This dog bed is not worth the price. It's not poor and my dog doesn't like it.
+280,433,117,My dog loves this dog collar! It's very good and has become a favorite toy.
+281,679,6178,I recently bought this dog toy for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+282,1865,6305,Bought this dog food for my dog and it was high-quality. My dog uses it all the time and seems very satisfied.
+283,1560,1294,This dog leash is not worth the price. It's not subpar and my dog doesn't like it.
+284,497,9155,The dog toy is not as disappointing as described. My dog has no interest in it.
+285,111,2763,I regret buying this dog food. It's not disappointing and my dog doesn't like it.
+286,1082,1401,"After using this dog leash for a week, I can say it's high-quality. My dog is much happier now."
+287,443,470,This is the best dog toy I have bought for my dog. It's fantastic and my dog can't get enough of it.
+288,917,2746,This dog collar is not worth the price. It's not subpar and my dog doesn't like it.
+289,1364,5796,This dog food is not worth the price. It's not low-quality and my dog doesn't like it.
+290,846,9560,My dog loves this dog bed! It's very high-quality and has become a favorite toy.
+291,273,9639,"I bought this dog food hoping it would be poor, but it was a disappointment. My dog doesn't like it at all."
+292,1539,5556,My dog loves this dog leash! It's very fantastic and has become a favorite toy.
+293,781,675,My dog loves this dog toy! It's very durable and has become a favorite toy.
+294,1132,493,"After using this dog bed for a week, I can say it's good. My dog is much happier now."
+295,1021,7905,Bought this dog collar for my dog and it was good. My dog uses it all the time and seems very satisfied.
+296,1353,7618,The dog food is fantastic and my dog loves playing with it every day. Highly recommend!
+297,916,4616,Bought this dog food for my dog and it was amazing. My dog uses it all the time and seems very satisfied.
+298,949,3570,"I was hesitant at first, but this dog collar turned out to be fantastic. My dog enjoys it a lot!"
+299,1131,3191,I am very happy with this dog collar. It's durable and my dog loves it!
+300,403,7411,Bought this dog bed for my dog and it was great. My dog uses it all the time and seems very satisfied.
+301,241,1855,I regret buying this dog food. It's not subpar and my dog doesn't like it.
+302,782,8083,I am very happy with this dog bed. It's great and my dog loves it!
+303,630,9242,The dog leash is high-quality and my dog loves playing with it every day. Highly recommend!
+304,874,9100,I am very happy with this dog collar. It's fantastic and my dog loves it!
+305,1839,7739,"I am very unhappy with this dog food. It's supposed to be disappointing, but it's not. My dog won't go near it."
+306,1140,9438,"After using this dog bed for a week, I can say it's high-quality. My dog is much happier now."
+307,384,8959,My dog loves this dog food! It's very amazing and has become a favorite toy.
+308,1079,7398,"After using this dog collar for a week, I can say it's amazing. My dog is much happier now."
+309,959,8323,This dog toy was a waste of money. It's not low-quality and my dog refuses to use it.
+310,1586,6864,Bought this dog collar for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+311,589,3,The dog leash is not as bad as described. My dog has no interest in it.
+312,1940,6389,I am very happy with this dog collar. It's great and my dog loves it!
+313,1548,9733,"I was hesitant at first, but this dog toy turned out to be great. My dog enjoys it a lot!"
+314,1239,7998,The dog food is good and my dog loves playing with it every day. Highly recommend!
+315,195,5333,My dog loves this dog toy! It's very fantastic and has become a favorite toy.
+316,1031,476,I regret buying this dog toy. It's not subpar and my dog doesn't like it.
+317,535,2633,This dog food exceeded my expectations. It's very amazing and my dog seems to be very happy with it.
+318,377,1331,I recently bought this dog collar for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+319,12,8954,This dog bed exceeded my expectations. It's very great and my dog seems to be very happy with it.
+320,1592,5583,The dog food is good and my dog has been using it daily. Great purchase!
+321,1397,8086,"I am very unhappy with this dog leash. It's supposed to be disappointing, but it's not. My dog won't go near it."
+322,1266,2030,"I thought this dog leash would be poor, but it's not. My dog doesn't enjoy it at all."
+323,802,3875,I recently bought this dog leash for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+324,218,4891,I recently bought this dog bed for my dog and it has been fantastic. The quality is good and my dog absolutely loves it!
+325,1750,9987,Bought this dog collar for my dog and it was good. My dog uses it all the time and seems very satisfied.
+326,224,1899,I recently bought this dog food for my dog and it has been fantastic. The quality is good and my dog absolutely loves it!
+327,797,2041,My dog loves this dog collar! It's very amazing and has become a favorite toy.
+328,75,1332,I am very happy with this dog bed. It's amazing and my dog loves it!
+329,584,5165,This is the best dog toy I have bought for my dog. It's fantastic and my dog can't get enough of it.
+330,865,7554,I am very happy with this dog leash. It's good and my dog loves it!
+331,1095,9641,"I thought this dog leash would be poor, but it's not. My dog doesn't enjoy it at all."
+332,966,6025,This dog leash is not worth the price. It's not low-quality and my dog doesn't like it.
+333,1421,3697,I am very happy with this dog bed. It's amazing and my dog loves it!
+334,911,140,The dog collar is great and my dog has been using it daily. Great purchase!
+335,1561,7236,The dog leash is great and my dog loves playing with it every day. Highly recommend!
+336,1823,5636,My dog loves this dog leash! It's very fantastic and has become a favorite toy.
+337,555,779,I am very happy with this dog food. It's amazing and my dog loves it!
+338,1620,6699,This dog bed exceeded my expectations. It's very great and my dog seems to be very happy with it.
+339,445,5145,The dog food is good and my dog loves playing with it every day. Highly recommend!
+340,475,5009,This is the best dog toy I have bought for my dog. It's durable and my dog can't get enough of it.
+341,1673,1474,"I am very unhappy with this dog collar. It's supposed to be low-quality, but it's not. My dog won't go near it."
+342,1384,5269,I recently bought this dog collar for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+343,1038,2477,The dog bed is amazing and my dog has been using it daily. Great purchase!
+344,1264,9306,This dog collar exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+345,1616,6904,My dog loves this dog leash! It's very great and has become a favorite toy.
+346,1992,2407,My dog loves this dog leash! It's very good and has become a favorite toy.
+347,721,7402,This dog toy is far from low-quality. My dog hates it and won't use it.
+348,1287,952,I am very happy with this dog collar. It's durable and my dog loves it!
+349,242,2784,This is the best dog food I have bought for my dog. It's durable and my dog can't get enough of it.
+350,408,2810,Bought this dog toy for my dog and it was great. My dog uses it all the time and seems very satisfied.
+351,833,2336,"I was hesitant at first, but this dog collar turned out to be fantastic. My dog enjoys it a lot!"
+352,1732,6626,I recently bought this dog bed for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+353,1019,7195,My dog loves this dog bed! It's very amazing and has become a favorite toy.
+354,1678,6096,The dog bed is not as disappointing as described. My dog has no interest in it.
+355,1374,2100,I recently bought this dog food for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+356,178,971,"I bought this dog collar hoping it would be disappointing, but it was a disappointment. My dog doesn't like it at all."
+357,1968,3682,I am very happy with this dog bed. It's great and my dog loves it!
+358,1404,5040,The dog leash is durable and my dog has been using it daily. Great purchase!
+359,323,7720,This dog leash exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+360,511,907,Bought this dog toy for my dog and it was durable. My dog uses it all the time and seems very satisfied.
+361,1289,8632,I recently bought this dog food for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+362,1261,1150,"After using this dog toy for a week, I can say it's amazing. My dog is much happier now."
+363,1011,1145,This dog bed was a waste of money. It's not subpar and my dog refuses to use it.
+364,1444,7549,"I thought this dog bed would be bad, but it's not. My dog doesn't enjoy it at all."
+365,1022,392,I recently bought this dog food for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+366,1101,576,The dog food is great and my dog loves playing with it every day. Highly recommend!
+367,107,4294,The dog toy is great and my dog has been using it daily. Great purchase!
+368,893,8963,This dog collar exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+369,729,1962,The dog food is great and my dog has been using it daily. Great purchase!
+370,1734,4575,"After using this dog food for a week, I can say it's fantastic. My dog is much happier now."
+371,1995,338,"I was hesitant at first, but this dog bed turned out to be great. My dog enjoys it a lot!"
+372,1084,7858,My dog loves this dog toy! It's very great and has become a favorite toy.
+373,1077,8894,I am very happy with this dog bed. It's durable and my dog loves it!
+374,1848,3750,"I was hesitant at first, but this dog toy turned out to be durable. My dog enjoys it a lot!"
+375,1330,5685,Bought this dog bed for my dog and it was high-quality. My dog uses it all the time and seems very satisfied.
+376,1491,8408,I recently bought this dog leash for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+377,8,7057,"After using this dog bed for a week, I can say it's great. My dog is much happier now."
+378,1002,134,I am very happy with this dog leash. It's amazing and my dog loves it!
+379,1897,3817,The dog collar is not as poor as described. My dog has no interest in it.
+380,88,9234,This is the best dog bed I have bought for my dog. It's amazing and my dog can't get enough of it.
+381,78,4155,The dog toy is great and my dog loves playing with it every day. Highly recommend!
+382,1453,4888,"The dog leash is supposed to be terrible, but it's poorly made. My dog ignores it."
+383,1970,355,"The dog leash is supposed to be disappointing, but it's poorly made. My dog ignores it."
+384,290,1108,This dog toy is not worth the price. It's not subpar and my dog doesn't like it.
+385,616,2445,My dog loves this dog bed! It's very fantastic and has become a favorite toy.
+386,636,3494,My dog loves this dog leash! It's very amazing and has become a favorite toy.
+387,1470,5812,My dog loves this dog food! It's very great and has become a favorite toy.
+388,1577,581,The dog toy is fantastic and my dog has been using it daily. Great purchase!
+389,1173,190,This dog toy was a waste of money. It's not disappointing and my dog refuses to use it.
+390,1969,9065,"I was hesitant at first, but this dog bed turned out to be durable. My dog enjoys it a lot!"
+391,787,3868,I recently bought this dog leash for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+392,604,3551,I am very happy with this dog leash. It's high-quality and my dog loves it!
+393,1509,8653,This dog food exceeded my expectations. It's very great and my dog seems to be very happy with it.
+394,169,6765,Bought this dog leash for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+395,1596,3630,My dog loves this dog food! It's very durable and has become a favorite toy.
+396,860,5521,Very disappointed with this dog toy. It's not poor and my dog doesn't use it.
+397,268,649,"After using this dog bed for a week, I can say it's great. My dog is much happier now."
+398,1047,4002,The dog food is durable and my dog has been using it daily. Great purchase!
+399,936,4162,I recently bought this dog food for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+400,1542,3555,This dog toy exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+401,990,3014,I recently bought this dog toy for my dog and it has been fantastic. The quality is great and my dog absolutely loves it!
+402,1977,3439,This is the best dog bed I have bought for my dog. It's good and my dog can't get enough of it.
+403,1556,7201,My dog loves this dog food! It's very amazing and has become a favorite toy.
+404,646,8777,I am very happy with this dog toy. It's good and my dog loves it!
+405,1757,3538,This is the best dog bed I have bought for my dog. It's good and my dog can't get enough of it.
+406,177,7074,I recently bought this dog leash for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+407,827,5116,This dog toy exceeded my expectations. It's very high-quality and my dog seems to be very happy with it.
+408,342,7314,The dog toy is not as low-quality as described. My dog has no interest in it.
+409,808,2566,I regret buying this dog collar. It's not disappointing and my dog doesn't like it.
+410,1015,8155,The dog leash is fantastic and my dog loves playing with it every day. Highly recommend!
+411,1091,8279,"I was hesitant at first, but this dog toy turned out to be high-quality. My dog enjoys it a lot!"
+412,287,989,This dog food exceeded my expectations. It's very great and my dog seems to be very happy with it.
+413,1549,5791,This is the best dog food I have bought for my dog. It's amazing and my dog can't get enough of it.
+414,1328,2424,The dog toy is amazing and my dog has been using it daily. Great purchase!
+415,741,1890,The dog bed is high-quality and my dog loves playing with it every day. Highly recommend!
+416,24,6282,This dog bed exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+417,1691,1033,"I was hesitant at first, but this dog food turned out to be good. My dog enjoys it a lot!"
+418,1097,4207,"After using this dog food for a week, I can say it's good. My dog is much happier now."
+419,849,8582,I recently bought this dog leash for my dog and it has been fantastic. The quality is amazing and my dog absolutely loves it!
+420,1675,6099,This is the best dog toy I have bought for my dog. It's great and my dog can't get enough of it.
+421,353,4264,The dog leash is great and my dog loves playing with it every day. Highly recommend!
+422,204,6090,Bought this dog bed for my dog and it was great. My dog uses it all the time and seems very satisfied.
+423,1770,8060,"I was hesitant at first, but this dog collar turned out to be durable. My dog enjoys it a lot!"
+424,686,3552,This dog food exceeded my expectations. It's very fantastic and my dog seems to be very happy with it.
+425,1116,5128,The dog toy is high-quality and my dog loves playing with it every day. Highly recommend!
+426,612,7673,This is the best dog collar I have bought for my dog. It's durable and my dog can't get enough of it.
+427,461,8404,This dog bed was a waste of money. It's not terrible and my dog refuses to use it.
+428,673,1014,This dog leash is not worth the price. It's not low-quality and my dog doesn't like it.
+429,1120,9620,I am very happy with this dog bed. It's high-quality and my dog loves it!
+430,523,2465,"I was hesitant at first, but this dog toy turned out to be fantastic. My dog enjoys it a lot!"
+431,338,7294,"I am very unhappy with this dog leash. It's supposed to be bad, but it's not. My dog won't go near it."
+432,1154,3052,My dog loves this dog bed! It's very good and has become a favorite toy.
+433,14,8099,"After using this dog collar for a week, I can say it's fantastic. My dog is much happier now."
+434,431,8145,The dog leash is great and my dog has been using it daily. Great purchase!
+435,1805,5029,"I was hesitant at first, but this dog bed turned out to be great. My dog enjoys it a lot!"
+436,496,9122,Very disappointed with this dog collar. It's not low-quality and my dog doesn't use it.
+437,402,2491,"I thought this dog leash would be low-quality, but it's not. My dog doesn't enjoy it at all."
+438,1073,8067,This is the best dog food I have bought for my dog. It's great and my dog can't get enough of it.
+439,1701,9357,I recently bought this dog food for my dog and it has been fantastic. The quality is durable and my dog absolutely loves it!
+440,691,3158,The dog leash is durable and my dog has been using it daily. Great purchase!
+441,331,2850,I am very happy with this dog leash. It's high-quality and my dog loves it!
+442,109,3384,"The dog collar is supposed to be poor, but it's poorly made. My dog ignores it."
+443,1299,743,This dog collar exceeded my expectations. It's very great and my dog seems to be very happy with it.
+444,281,326,My dog loves this dog toy! It's very durable and has become a favorite toy.
+445,57,5076,This dog bed is far from bad. My dog hates it and won't use it.
+446,161,6524,This dog leash exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+447,182,410,This dog food is far from subpar. My dog hates it and won't use it.
+448,1525,1467,"The dog leash is supposed to be subpar, but it's poorly made. My dog ignores it."
+449,1667,4287,The dog leash is fantastic and my dog has been using it daily. Great purchase!
+450,826,347,I am very happy with this dog bed. It's great and my dog loves it!
+451,1768,7373,This is the best dog leash I have bought for my dog. It's amazing and my dog can't get enough of it.
+452,1806,5286,Bought this dog food for my dog and it was fantastic. My dog uses it all the time and seems very satisfied.
+453,1641,6816,This dog leash exceeded my expectations. It's very durable and my dog seems to be very happy with it.
+454,1500,5701,"After using this dog food for a week, I can say it's fantastic. My dog is much happier now."
+455,551,2924,I am very happy with this dog food. It's great and my dog loves it!
+456,18,3141,This is the best dog leash I have bought for my dog. It's great and my dog can't get enough of it.
+457,1761,5582,"After using this dog leash for a week, I can say it's fantastic. My dog is much happier now."
+458,77,9249,My dog loves this dog bed! It's very durable and has become a favorite toy.
+459,356,9300,This dog leash is not worth the price. It's not terrible and my dog doesn't like it.
+460,1109,900,This is the best dog bed I have bought for my dog. It's great and my dog can't get enough of it.
+461,1234,8808,The dog toy is durable and my dog has been using it daily. Great purchase!
+462,649,4609,I regret buying this dog leash. It's not terrible and my dog doesn't like it.
+463,1096,6098,The dog bed is high-quality and my dog has been using it daily. Great purchase!
+464,1866,9901,The dog collar is amazing and my dog loves playing with it every day. Highly recommend!
+465,1089,7046,This dog bed exceeded my expectations. It's very good and my dog seems to be very happy with it.
+466,73,8446,My dog loves this dog toy! It's very durable and has become a favorite toy.
+467,1886,2334,This dog collar is far from poor. My dog hates it and won't use it.
+468,1396,2248,The dog toy is durable and my dog has been using it daily. Great purchase!
+469,376,2324,This is the best dog collar I have bought for my dog. It's amazing and my dog can't get enough of it.
+470,1889,566,I recently bought this dog collar for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+471,154,6779,The dog leash is great and my dog loves playing with it every day. Highly recommend!
+472,1686,3432,This is the best dog toy I have bought for my dog. It's durable and my dog can't get enough of it.
+473,991,8429,This dog leash exceeded my expectations. It's very great and my dog seems to be very happy with it.
+474,1932,4185,I am very happy with this dog collar. It's great and my dog loves it!
+475,1363,1535,I am very happy with this dog bed. It's amazing and my dog loves it!
+476,448,8638,The dog food is good and my dog loves playing with it every day. Highly recommend!
+477,326,6329,I recently bought this dog bed for my dog and it has been fantastic. The quality is fantastic and my dog absolutely loves it!
+478,525,9289,Bought this dog collar for my dog and it was good. My dog uses it all the time and seems very satisfied.
+479,1566,5948,This is the best dog bed I have bought for my dog. It's good and my dog can't get enough of it.
+480,834,750,"I thought this dog collar would be disappointing, but it's not. My dog doesn't enjoy it at all."
+481,45,3805,I recently bought this dog leash for my dog and it has been fantastic. The quality is amazing and my dog absolutely loves it!
+482,1567,7029,"The dog food is supposed to be low-quality, but it's poorly made. My dog ignores it."
+483,507,8931,"I was hesitant at first, but this dog food turned out to be good. My dog enjoys it a lot!"
+484,1160,7475,Bought this dog collar for my dog and it was durable. My dog uses it all the time and seems very satisfied.
+485,1379,4703,I am very happy with this dog food. It's fantastic and my dog loves it!
+486,1708,8118,I recently bought this dog leash for my dog and it has been fantastic. The quality is high-quality and my dog absolutely loves it!
+487,279,5378,My dog loves this dog toy! It's very high-quality and has become a favorite toy.
+488,1259,8799,This is the best dog leash I have bought for my dog. It's good and my dog can't get enough of it.
+489,665,1284,Very disappointed with this dog leash. It's not poor and my dog doesn't use it.
+490,467,8571,The dog leash is fantastic and my dog loves playing with it every day. Highly recommend!
+491,233,7189,I regret buying this dog collar. It's not low-quality and my dog doesn't like it.
+492,1978,7229,Bought this dog collar for my dog and it was great. My dog uses it all the time and seems very satisfied.
+493,319,4473,My dog loves this dog leash! It's very amazing and has become a favorite toy.
+494,981,5608,My dog loves this dog toy! It's very good and has become a favorite toy.
+495,1926,7219,My dog loves this dog collar! It's very high-quality and has become a favorite toy.
+496,260,8602,I am very happy with this dog leash. It's good and my dog loves it!
+497,1837,316,The dog toy is durable and my dog has been using it daily. Great purchase!
+498,327,7814,This is the best dog toy I have bought for my dog. It's amazing and my dog can't get enough of it.
+499,1351,1782,This dog food exceeded my expectations. It's very great and my dog seems to be very happy with it.

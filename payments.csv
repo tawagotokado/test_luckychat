@@ -1,0 +1,11 @@
+payment_id,payment_name
+0,MasterCard
+1,Visa
+2,PayPal
+3,Alipay
+4,Discover
+5,American Express
+6,UnionPay
+7,JCB
+8,Diners Club
+9,Maestro
